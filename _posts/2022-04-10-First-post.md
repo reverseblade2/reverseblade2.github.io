@@ -7,8 +7,14 @@ title: "First post"
 
 published: true
 
-
+excrept_seperator:  <!--more-->
 ---
 
 ## Hello World
 
+Merhaba merhaba 
+
+<!--more-->
+
+
+Bu ilk postum
